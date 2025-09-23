@@ -1,5 +1,4 @@
 # DataAnalyticsForIIT
 
-This line is added from siddhart
 
-This line is added from SHIV LOcal
+This line is added by Swathi 
